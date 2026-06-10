@@ -1,0 +1,7 @@
+.token.txt
+.venv/
+.pytest_cache/
+allure-result/
+allure-results/
+__pycache__/
+*.pyc
